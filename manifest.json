@@ -1,0 +1,9 @@
+{
+  "name": "VIN Dekoder",
+  "short_name": "VIN",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Dekodowanie numeru VIN offline",
+  "icons": []
+}
